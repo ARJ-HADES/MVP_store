@@ -1,6 +1,7 @@
 
 Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+![image](https://user-images.githubusercontent.com/68515819/228196442-b7954c82-09db-43a8-879e-e623f0adb3cb.png)
+
 
 
 
