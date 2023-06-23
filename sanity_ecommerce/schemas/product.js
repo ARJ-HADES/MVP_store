@@ -13,8 +13,8 @@ export default {
       }
     },
     { 
-      name: 'name',
-      title: 'Name',
+      name: 'productName',
+      title: 'Product Name',
       type: 'string',
     },
     { 
